@@ -1,2 +1,2 @@
 # PsychoCrud
-JS Crud German
+Js Work for German
